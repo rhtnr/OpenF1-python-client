@@ -3,6 +3,8 @@
 A production-grade Python SDK for the [OpenF1 API](https://openf1.org/), providing easy access to real-time and historical Formula 1 data.
 
 <p align="center">
+  <a href="https://pypi.org/project/OpenF1-python-client/"><img src="https://img.shields.io/pypi/v/OpenF1-python-client.svg" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/OpenF1-python-client/"><img src="https://img.shields.io/pypi/dm/OpenF1-python-client.svg" alt="PyPI downloads"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
@@ -51,14 +53,14 @@ A production-grade Python SDK for the [OpenF1 API](https://openf1.org/), providi
 ## 📦 Installation
 
 ```bash
-pip install openf1-client
+pip install OpenF1-python-client
 ```
 
 Or install from source:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openf1-python.git
-cd openf1-python
+git clone https://github.com/rhtnr/OpenF1-python-client.git
+cd OpenF1-python-client
 pip install -e .
 ```
 
