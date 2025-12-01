@@ -5,6 +5,7 @@ A production-grade Python SDK for the [OpenF1 API](https://openf1.org/), providi
 <p align="center">
   <a href="https://pypi.org/project/OpenF1-python-client/"><img src="https://img.shields.io/pypi/v/OpenF1-python-client.svg" alt="PyPI version"></a>
   <a href="https://pypi.org/project/OpenF1-python-client/"><img src="https://img.shields.io/pypi/dm/OpenF1-python-client.svg" alt="PyPI downloads"></a>
+  <a href="https://github.com/rhtnr/OpenF1-python-client/actions/workflows/workflow.yml"><img src="https://github.com/rhtnr/OpenF1-python-client/actions/workflows/workflow.yml/badge.svg" alt="Publish to PyPI"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
